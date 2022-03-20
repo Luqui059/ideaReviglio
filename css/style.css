@@ -76,6 +76,13 @@ header {
     display: inline-block;
     
 }
+.header__nav__cambioColor a:hover{ 
+    list-style: none;
+    text-decoration: none;
+    color: #ff0000be;
+    background-color: #944545;
+    
+}
 
 /* MAINS TODO EL PROYECTO */
 .main__div{
